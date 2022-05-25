@@ -1,0 +1,28 @@
+{
+  "name": "12sql-employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/molano1979/12SQL-employee-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/molano1979/12SQL-employee-tracker/issues"
+  },
+  "homepage": "https://github.com/molano1979/12SQL-employee-tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "ctable": "^0.0.3",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.20.0"
+  }
+}
